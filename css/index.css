@@ -127,7 +127,7 @@ body {font-family: 'Nanumsquare', 'Raleway'; cursor: default;}
 .fp_name {width: 100%;}
 .fp_name_box {position: absolute; left: 50%; transform: translateX(-49%); bottom: 90px;}
 .fp_name_box li {float: left; width: 120px; margin-right: 15px; font-size: 14px; text-align: center;}
-#footer {position: absolute; left: 0; bottom: 0; background: #3d585a; width: 100%; height: 50px; line-height: 50px;}
+#footer {position: absolute; left: 0; bottom: 0; background: #7fa1a3; width: 100%; height: 50px; line-height: 50px;}
 #footer_txt {width: 100%; text-align: center; color: #f8f8f8; font-size: 14px;}
 
 
@@ -242,7 +242,7 @@ body {font-family: 'Nanumsquare', 'Raleway'; cursor: default;}
 .fp-controlArrow.fp-prev {left: 2%; background-size: 80%;}
 .fp-controlArrow.fp-next {right: 2%; background-size: 80%;}
 .fp_name {display: none;}
-#footer {position: absolute; left: 0; bottom: 0; background: #3d585a; width: 100%; height: 40px; line-height: 40px;}
+#footer {position: absolute; left: 0; bottom: 0; background: #7fa1a3; width: 100%; height: 40px; line-height: 40px;}
 #footer_txt {font-size: 13px;}
 }
 
