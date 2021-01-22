@@ -111,7 +111,7 @@ body {font-family: 'Nanumsquare', 'Raleway'; cursor: default;}
 .pf_gosite {position: relative; text-align: center; margin-top: 30px; margin-bottom: 100px;}
 .pf_gosite a {overflow: hidden; position: relative; display: inline-block; vertical-align: top; width: 100%; padding: 10px 0; font-size: 18px; border: 1px solid #aaa; transition: all 0.5s;}
 .pf_gosite a:hover {color: #fff; border: 1px solid #9fcbce;}
-.pf_gosite a:before {content: ""; z-index: -1; position: absolute; background: #9fcbce; transition: all 1s; left: 50%; top: 0; transform: translateX(-50%); width: 0; height: 100%;}
+.pf_gosite a:before {content: ""; z-index: -1; position: absolute; background: #9fcbce; transition: all 1s; left: 50%; top: 0; transform: translateX(-50%); width: 0%; height: 100%;}
 .pf_gosite a:hover:before {width: 100%;}
 
 /*s3 slideNavigation*/
